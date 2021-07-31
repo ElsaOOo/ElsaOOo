@@ -1,8 +1,14 @@
 ### Hi there 👋 ![Profile Views](https://komarev.com/ghpvc/?username=ElsaOOo&color=orange)
+
 - 💻 I’m currently working on fullstack
 - 🌱 I’m currently learning java
 
+**look at my lovely cat!** 😊
+
+<img alt="GIF" src="./pics/my-cat.jpeg" />
+
 ## Some of my Github Stats
+
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=ElsaOOo&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 - 😄 my blog: https://elsaooo.github.io/
@@ -19,4 +25,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
