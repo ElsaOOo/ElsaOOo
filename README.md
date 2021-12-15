@@ -13,7 +13,7 @@
 
 - 😄 my blog: https://elsaooo.github.io/
 - 😄 ZhiHu: https://www.zhihu.com/people/yezi-kuikui/posts
-- 😎 open source project which I was involved: https://gitee.com/devui/vue-devui
+- 
 <!--
 **ElsaOOo/ElsaOOo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
